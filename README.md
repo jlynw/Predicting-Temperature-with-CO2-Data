@@ -9,7 +9,6 @@ We are hoping to explore the relationship between CO2, the climate, and other fa
 ## Sources of Data:
 - [Kaggle: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
 - [Github: CO2 Emissions](https://github.com/owid/co2-data)
-- [Global Land Temperatures](http://berkeleyearth.org/data-visualization/)
 
 
 ## Data Preprocessing
